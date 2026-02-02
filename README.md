@@ -19,4 +19,4 @@ Developed as **Task 3 (Week 3)** of the **CodeTech Python Programming Internship
 ## How to Run
 ```bash
 pip install nltk wikipedia
-python wiki_chatbot.py
+
