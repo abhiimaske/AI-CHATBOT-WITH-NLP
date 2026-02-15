@@ -6,6 +6,7 @@ import wikipedia
 import sympy as sp
 from nltk.tokenize import word_tokenize
 
+
 # Download tokenizer
 nltk.download("punkt")
 
